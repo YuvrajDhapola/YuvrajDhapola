@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm currently learning to code and exploring different programming languages, excited about building projects and improving my skills. Currently focusing on \[Python\].
 
 * 🌍  I'm based in Gurugram
-* ✉️  You can contact me at [uv.dhapola.11@gmail.com](mailto:uv.dhapola.11@gmail.com)
+* ✉️  You can contact me at [dhapolayuvraj15@gmail.com](mailto:uv.dhapola.11@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
